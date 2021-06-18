@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FruitSamurai-0011.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\FruitSamuraiEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\FruitSamuraiGameModeBase.cpp.obj"
+"D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\BaseFruitSpawner.cpp.obj"
+"D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\FruitSamurai.cpp.obj"
+"D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\BaseFruitSpawner.gen.cpp.obj"
+"D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\FruitSamurai.init.gen.cpp.obj"
+"D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\FruitSamuraiGameModeBase.gen.cpp.obj"
+"D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\Default.rc2.res"
+/OUT:"D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\UE4Editor-FruitSamurai-0011.lib"
+/INCLUDE:IMPLEMENT_MODULE_FruitSamurai

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Todo\\Repositorios\\TSDV\\5to cuatrimestre\\Unreal\\UE-TPFinal\\FruitSamurai\\Source\\FruitSamurai\\FruitSamurai.Build.cs",
+		"D:\\Todo\\Repositorios\\TSDV\\5to cuatrimestre\\Unreal\\UE-TPFinal\\FruitSamurai\\Source\\FruitSamurai.Target.cs",
+		"D:\\Todo\\Repositorios\\TSDV\\5to cuatrimestre\\Unreal\\UE-TPFinal\\FruitSamurai\\Source\\FruitSamuraiEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
