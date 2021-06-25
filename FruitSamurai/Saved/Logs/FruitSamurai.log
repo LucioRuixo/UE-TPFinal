@@ -1422,3 +1422,412 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.25-16.50.33:393][481]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.06.25-16.50.33:397][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
 [2021.06.25-16.50.33:413][482]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.06.25-17.00.34:037][646]LogEditorTransaction: Undo Edit Size
+[2021.06.25-17.02.06:078][394]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.06.25-17.02.06:079][394]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FruitSamurai/Levels/MainMenu' took 0.057
+[2021.06.25-17.02.06:080][394]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FruitSamurai/UI/MainMenu/WBP_MainMenu] ([2] browsable assets)...
+[2021.06.25-17.02.06:080][394]OBJ SavePackage: Finished generating thumbnails for package [/Game/FruitSamurai/UI/MainMenu/WBP_MainMenu]
+[2021.06.25-17.02.06:087][394]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/WBP_MainMenu_Auto49888FE5E48B0A6EFA2076782DC92CD5F.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/Autosaves/Game/FruitSamurai/UI/MainMenu/WBP_MainMenu_Auto4.uasset'
+[2021.06.25-17.02.06:087][394]LogFileHelpers: Auto-saving content packages took 0.008
+[2021.06.25-17.04.34:780][ 80]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/WBP_MainMenu9EF6D249424B71F470136A9F59BB40E6.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/UI/MainMenu/WBP_MainMenu.uasset'
+[2021.06.25-17.04.34:798][ 80]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2021.06.25-17.04.34:798][ 80]LogContentValidation: Display: Validating WidgetBlueprint /Game/FruitSamurai/UI/MainMenu/WBP_MainMenu.WBP_MainMenu
+[2021.06.25-17.11.03:753][833]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/WBP_MainMenu0FF6D23846B821050606C0860C93DA3D.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/UI/MainMenu/WBP_MainMenu.uasset'
+[2021.06.25-17.11.03:772][833]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2021.06.25-17.11.03:772][833]LogContentValidation: Display: Validating WidgetBlueprint /Game/FruitSamurai/UI/MainMenu/WBP_MainMenu.WBP_MainMenu
+[2021.06.25-17.11.04:546][924]BlueprintLog: New page: Compile WBP_MainMenu
+[2021.06.25-17.11.04:624][924]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.06.25-17.14.15:451][765]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/WBP_MainMenu5EEC8BA54C6E6F604627BBAF2205AD28.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/UI/MainMenu/WBP_MainMenu.uasset'
+[2021.06.25-17.14.15:469][765]AssetCheck: New page: Asset Save: WBP_MainMenu
+[2021.06.25-17.14.15:469][765]LogContentValidation: Display: Validating WidgetBlueprint /Game/FruitSamurai/UI/MainMenu/WBP_MainMenu.WBP_MainMenu
+[2021.06.25-17.14.15:990][823]BlueprintLog: New page: Compile WBP_MainMenu
+[2021.06.25-17.14.16:059][823]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.06.25-17.14.21:822][487]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.25-17.14.21:828][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.25-17.14.21:828][487]PIE: New page: PIE session: MainMenu (25 jun. 2021 11:14:21)
+[2021.06.25-17.14.21:828][487]LogPlayLevel: Creating play world package: /Game/FruitSamurai/Levels/UEDPIE_0_MainMenu
+[2021.06.25-17.14.21:829][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000555s)
+[2021.06.25-17.14.21:829][487]LogAIModule: Creating AISystem for world MainMenu
+[2021.06.25-17.14.21:830][487]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2021.06.25-17.14.21:830][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FruitSamurai/Levels/MainMenu.MainMenu to /Game/FruitSamurai/Levels/UEDPIE_0_MainMenu.MainMenu (0.001720s)
+[2021.06.25-17.14.21:874][487]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.06.25-17.14.21:875][487]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.06.25-17.14.21:875][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-17.14.21:875][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-17.14.21:875][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-17.14.21:875][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-17.14.21:875][487]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-17.14.21:875][487]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-17.14.21:875][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-17.14.21:875][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-17.14.21:875][487]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-17.14.21:875][487]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-17.14.21:879][487]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-17.14.21:879][487]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-17.14.21:891][487]LogAudioMixer: Display: Using Audio Device Auriculares (2- Escape 220 Stereo)
+[2021.06.25-17.14.21:891][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-17.14.21:891][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-17.14.21:891][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-17.14.21:891][487]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-17.14.21:892][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-17.14.21:892][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-17.14.21:905][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-17.14.21:905][487]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-17.14.21:905][487]LogInit: FAudioDevice initialized.
+[2021.06.25-17.14.21:905][487]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2021.06.25-17.14.21:910][487]LogLoad: Game class is 'GM_MainMenu_C'
+[2021.06.25-17.14.21:911][487]LogWorld: Bringing World /Game/FruitSamurai/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2021.06.25-14.14.21
+[2021.06.25-17.14.21:911][487]LogWorld: Bringing up level for play took: 0.000264
+[2021.06.25-17.14.21:911][487]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.06.25-17.14.21:918][487]PIE: Server logged in
+[2021.06.25-17.14.21:919][487]PIE: Play in editor total start time 0,092 seconds.
+[2021.06.25-17.14.24:965][851]LogNet: Browse: /Game/FruitSamurai/Levels/Gameplay
+[2021.06.25-17.14.24:965][851]LogLoad: LoadMap: /Game/FruitSamurai/Levels/Gameplay
+[2021.06.25-17.14.24:965][851]LogWorld: BeginTearingDown for /Game/FruitSamurai/Levels/UEDPIE_0_MainMenu
+[2021.06.25-17.14.24:965][851]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-17.14.24:965][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-17.14.25:042][851]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-17.14.25:045][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.06.25-17.14.25:050][851]LogAudio: Display: Audio Device (ID: 7) registered with world 'Gameplay'.
+[2021.06.25-17.14.25:051][851]LogAIModule: Creating AISystem for world Gameplay
+[2021.06.25-17.14.25:051][851]LogLoad: Game class is 'GM_Gameplay_C'
+[2021.06.25-17.14.25:053][851]LogWorld: Bringing World /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 0) at 2021.06.25-14.14.25
+[2021.06.25-17.14.25:053][851]LogWorld: Bringing up level for play took: 0.001029
+[2021.06.25-17.14.25:054][851]LogLoad: Took 0.090124 seconds to LoadMap(/Game/FruitSamurai/Levels/Gameplay)
+[2021.06.25-17.14.28:921][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-17.14.28:921][306]LogWorld: BeginTearingDown for /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay
+[2021.06.25-17.14.28:921][306]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-17.14.28:921][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-17.14.28:925][306]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.25-17.14.28:931][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-17.14.28:971][306]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-17.14.28:972][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-17.14.28:972][306]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-17.14.28:988][306]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-17.14.28:992][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.06.25-17.14.29:006][307]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.06.25-17.15.56:489][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.06.25-17.15.56:514][793]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FruitSamurai/Levels/Gameplay.Gameplay
+[2021.06.25-17.15.56:514][793]Cmd: MAP LOAD FILE="../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Levels/Gameplay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.25-17.15.56:514][793]LightingResults: New page: Lighting Build
+[2021.06.25-17.15.56:515][793]LoadErrors: New page: Loading map: Gameplay.umap
+[2021.06.25-17.15.56:560][793]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-17.15.56:560][793]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-17.15.56:560][793]MapCheck: New page: Map Check
+[2021.06.25-17.15.56:560][793]LightingResults: New page: Lighting Build
+[2021.06.25-17.15.56:601][793]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-17.15.56:605][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.06.25-17.15.56:606][793]LogAudio: Display: Audio Device (ID: 1) registered with world 'Gameplay'.
+[2021.06.25-17.15.56:720][793]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.25-17.15.56:720][793]LogAIModule: Creating AISystem for world Gameplay
+[2021.06.25-17.15.56:765][793]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.06.25-17.15.56:770][793]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.25-17.15.56:770][793]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,126ms to complete.
+[2021.06.25-17.15.56:770][793]LogFileHelpers: Loading map 'Gameplay' took 0.256
+[2021.06.25-17.37.08:529][169]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.BP_PlayerController
+[2021.06.25-17.37.54:638][632]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_PlayerController1AC735634C14723F55AAFEB23E8E223B.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.uasset'
+[2021.06.25-17.37.54:656][632]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.06.25-17.37.54:657][632]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.BP_PlayerController
+[2021.06.25-17.37.55:807][743]BlueprintLog: New page: Compile BP_PlayerController
+[2021.06.25-17.37.55:890][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.06.25-17.37.58:032][963]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.25-17.37.58:037][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.25-17.37.58:037][963]PIE: New page: PIE session: Gameplay (25 jun. 2021 11:37:58)
+[2021.06.25-17.37.58:037][963]LogPlayLevel: Creating play world package: /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay
+[2021.06.25-17.37.58:039][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001932s)
+[2021.06.25-17.37.58:040][963]LogAIModule: Creating AISystem for world Gameplay
+[2021.06.25-17.37.58:040][963]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2021.06.25-17.37.58:040][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FruitSamurai/Levels/Gameplay.Gameplay to /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay.Gameplay (0.002995s)
+[2021.06.25-17.37.58:088][963]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.06.25-17.37.58:088][963]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.06.25-17.37.58:088][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-17.37.58:088][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-17.37.58:088][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-17.37.58:088][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-17.37.58:088][963]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-17.37.58:088][963]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-17.37.58:088][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-17.37.58:088][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-17.37.58:089][963]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-17.37.58:089][963]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-17.37.58:093][963]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-17.37.58:093][963]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-17.37.58:103][963]LogAudioMixer: Display: Using Audio Device Auriculares (2- Escape 220 Stereo)
+[2021.06.25-17.37.58:103][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-17.37.58:103][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-17.37.58:103][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-17.37.58:103][963]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-17.37.58:103][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-17.37.58:104][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-17.37.58:117][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-17.37.58:117][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-17.37.58:117][963]LogInit: FAudioDevice initialized.
+[2021.06.25-17.37.58:117][963]LogAudio: Display: Audio Device (ID: 8) registered with world 'Gameplay'.
+[2021.06.25-17.37.58:125][963]LogLoad: Game class is 'GM_Gameplay_C'
+[2021.06.25-17.37.58:126][963]LogWorld: Bringing World /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 0) at 2021.06.25-14.37.58
+[2021.06.25-17.37.58:126][963]LogWorld: Bringing up level for play took: 0.000458
+[2021.06.25-17.37.58:126][963]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.06.25-17.37.58:129][963]PIE: Server logged in
+[2021.06.25-17.37.58:129][963]PIE: Play in editor total start time 0,093 seconds.
+[2021.06.25-17.38.02:511][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-17.38.02:511][478]LogWorld: BeginTearingDown for /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay
+[2021.06.25-17.38.02:511][478]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-17.38.02:511][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-17.38.02:519][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.25-17.38.02:524][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-17.38.02:567][478]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-17.38.02:567][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-17.38.02:568][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-17.38.02:584][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-17.38.02:588][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.06.25-17.38.02:604][479]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.06.25-17.40.13:339][514]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_PlayerControllerC5DFE5F141FE3B269A9E7ABBD4C46472.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.uasset'
+[2021.06.25-17.40.13:357][514]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.06.25-17.40.13:357][514]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.BP_PlayerController
+[2021.06.25-17.40.44:423][735]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_PlayerController811D7F304EFED91A03FFB58E975D0823.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.uasset'
+[2021.06.25-17.40.44:438][735]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.06.25-17.40.44:438][735]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.BP_PlayerController
+[2021.06.25-17.40.45:882][884]BlueprintLog: New page: Compile BP_PlayerController
+[2021.06.25-17.40.45:974][884]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.06.25-17.40.48:121][101]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.25-17.40.48:126][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.25-17.40.48:126][101]PIE: New page: PIE session: Gameplay (25 jun. 2021 11:40:48)
+[2021.06.25-17.40.48:126][101]LogPlayLevel: Creating play world package: /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay
+[2021.06.25-17.40.48:128][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001909s)
+[2021.06.25-17.40.48:129][101]LogAIModule: Creating AISystem for world Gameplay
+[2021.06.25-17.40.48:129][101]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2021.06.25-17.40.48:129][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FruitSamurai/Levels/Gameplay.Gameplay to /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay.Gameplay (0.003018s)
+[2021.06.25-17.40.48:176][101]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2021.06.25-17.40.48:177][101]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.06.25-17.40.48:177][101]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-17.40.48:177][101]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-17.40.48:177][101]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-17.40.48:177][101]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-17.40.48:177][101]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-17.40.48:177][101]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-17.40.48:177][101]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-17.40.48:177][101]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-17.40.48:177][101]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-17.40.48:177][101]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-17.40.48:181][101]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-17.40.48:181][101]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-17.40.48:191][101]LogAudioMixer: Display: Using Audio Device Auriculares (2- Escape 220 Stereo)
+[2021.06.25-17.40.48:191][101]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-17.40.48:191][101]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-17.40.48:191][101]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-17.40.48:192][101]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-17.40.48:192][101]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-17.40.48:192][101]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-17.40.48:206][101]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-17.40.48:206][101]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-17.40.48:206][101]LogInit: FAudioDevice initialized.
+[2021.06.25-17.40.48:206][101]LogAudio: Display: Audio Device (ID: 9) registered with world 'Gameplay'.
+[2021.06.25-17.40.48:217][101]LogLoad: Game class is 'GM_Gameplay_C'
+[2021.06.25-17.40.48:218][101]LogWorld: Bringing World /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 0) at 2021.06.25-14.40.48
+[2021.06.25-17.40.48:218][101]LogWorld: Bringing up level for play took: 0.000524
+[2021.06.25-17.40.48:218][101]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.06.25-17.40.48:222][101]PIE: Server logged in
+[2021.06.25-17.40.48:223][101]PIE: Play in editor total start time 0,097 seconds.
+[2021.06.25-17.40.55:761][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-17.40.55:761][994]LogWorld: BeginTearingDown for /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay
+[2021.06.25-17.40.55:761][994]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-17.40.55:761][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-17.40.55:768][994]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.25-17.40.55:774][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-17.40.55:818][994]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-17.40.55:819][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-17.40.55:819][994]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-17.40.55:835][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-17.40.55:839][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.06.25-17.40.55:860][995]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.06.25-17.41.38:227][739]BlueprintLog: New page: Compile BP_PlayerController
+[2021.06.25-17.41.38:305][739]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.06.25-17.41.49:838][825]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_PlayerController3E21BFC747A55E5BB91B368576A51B00.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.uasset'
+[2021.06.25-17.41.49:855][825]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.06.25-17.41.49:855][825]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.BP_PlayerController
+[2021.06.25-17.41.50:672][901]BlueprintLog: New page: Compile BP_PlayerController
+[2021.06.25-17.41.50:748][901]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.06.25-17.41.54:672][269]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_PlayerController2F298B4D40A8DBA6A90EC58A98E7B140.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.uasset'
+[2021.06.25-17.41.54:686][269]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.06.25-17.41.54:686][269]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.BP_PlayerController
+[2021.06.25-17.42.56:106][400]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_PlayerControllerD9E151A142223A14981496B937B2A8AD.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.uasset'
+[2021.06.25-17.42.56:121][400]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.06.25-17.42.56:121][400]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.BP_PlayerController
+[2021.06.25-17.42.57:874][580]BlueprintLog: New page: Compile BP_PlayerController
+[2021.06.25-17.42.57:953][580]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.06.25-17.42.58:489][624]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_PlayerController36F8FFBA48E5264BBA093D9B00F4808C.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.uasset'
+[2021.06.25-17.42.58:502][624]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.06.25-17.42.58:502][624]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.BP_PlayerController
+[2021.06.25-17.43.28:207][927]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_PlayerController1F749AFB4699AA37468238B6B3AE39C8.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.uasset'
+[2021.06.25-17.43.28:226][927]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.06.25-17.43.28:226][927]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.BP_PlayerController
+[2021.06.25-17.43.32:185][337]BlueprintLog: New page: Compile BP_PlayerController
+[2021.06.25-17.43.32:264][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.06.25-17.43.45:489][706]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_PlayerController68BF54704A2F56E39730A3800427F283.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.uasset'
+[2021.06.25-17.43.45:503][706]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.06.25-17.43.45:503][706]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.BP_PlayerController
+[2021.06.25-17.52.35:838][137]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_PlayerController0F31DA3C43E4D53101722083C384C344.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.uasset'
+[2021.06.25-17.52.35:858][137]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.06.25-17.52.35:858][137]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.BP_PlayerController
+[2021.06.25-17.52.36:514][199]BlueprintLog: New page: Compile BP_PlayerController
+[2021.06.25-17.52.36:603][199]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2021.06.25-17.53.25:926][220]LogEditorTransaction: Undo Move Node
+[2021.06.25-17.55.01:757][759]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2021.06.25-17.55.01:759][759]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FruitSamurai/Levels/Gameplay' took 0.120
+[2021.06.25-17.55.01:760][759]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FruitSamurai/UI/Gameplay/BP_HUD] ([2] browsable assets)...
+[2021.06.25-17.55.01:760][759]OBJ SavePackage: Finished generating thumbnails for package [/Game/FruitSamurai/UI/Gameplay/BP_HUD]
+[2021.06.25-17.55.01:802][759]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_HUD_Auto585617CDC4EE5F23295C231875F57164C.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/Autosaves/Game/FruitSamurai/UI/Gameplay/BP_HUD_Auto5.uasset'
+[2021.06.25-17.55.01:802][759]LogFileHelpers: Auto-saving content packages took 0.043
+[2021.06.25-17.56.57:325][663]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_HUDB55CF15043EF810199CC20B5A5DAB55F.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/UI/Gameplay/BP_HUD.uasset'
+[2021.06.25-17.56.57:348][663]AssetCheck: New page: Asset Save: BP_HUD
+[2021.06.25-17.56.57:348][663]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/UI/Gameplay/BP_HUD.BP_HUD
+[2021.06.25-17.57.16:675][475]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_PlayerController7631FFEF44A9D0FC6ACD70B613764D0B.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.uasset'
+[2021.06.25-17.57.16:690][475]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.06.25-17.57.16:690][475]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.BP_PlayerController
+[2021.06.25-17.57.19:599][739]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_HUDFC1D099842042AF5C22C5FBFC95CD53D.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/UI/Gameplay/BP_HUD.uasset'
+[2021.06.25-17.57.19:623][739]AssetCheck: New page: Asset Save: BP_HUD
+[2021.06.25-17.57.19:623][739]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/UI/Gameplay/BP_HUD.BP_HUD
+[2021.06.25-17.57.20:037][778]BlueprintLog: New page: Compile BP_HUD
+[2021.06.25-17.57.20:061][778]LogBlueprint: Error: [AssetLog] D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Content\FruitSamurai\UI\Gameplay\BP_HUD.uasset: [Compiler] Wrong Event Dispatcher. Refresh node  Bind Event to On Fruit Cut
+[2021.06.25-17.57.20:190][778]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.06.25-17.57.20:312][778]LogSlate: Took 0.030911 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.25-17.58.37:493][419]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_HUDEABADCE94204223DA177B29254373BD3.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/UI/Gameplay/BP_HUD.uasset'
+[2021.06.25-17.58.37:518][419]AssetCheck: New page: Asset Save: BP_HUD
+[2021.06.25-17.58.37:518][419]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/UI/Gameplay/BP_HUD.BP_HUD
+[2021.06.25-17.58.38:313][484]BlueprintLog: New page: Compile BP_HUD
+[2021.06.25-17.58.38:316][484]LogBlueprint: Error: [AssetLog] D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Content\FruitSamurai\UI\Gameplay\BP_HUD.uasset: [Compiler] Create Event  : missing a function/event name.
+[2021.06.25-17.58.38:316][484]LogBlueprint: Error: [AssetLog] D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Content\FruitSamurai\UI\Gameplay\BP_HUD.uasset: [Compiler] Wrong Event Dispatcher. Refresh node  Bind Event to On Fruit Cut
+[2021.06.25-17.58.38:327][484]LogBlueprint: Error: [AssetLog] D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Content\FruitSamurai\UI\Gameplay\BP_HUD.uasset: [Compiler] Failed to create property K2Node_CreateDelegate_OutputDelegate from  <None>  due to a bad or unknown type (Delegate)
+[2021.06.25-17.58.38:327][484]LogBlueprint: Error: [AssetLog] D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Content\FruitSamurai\UI\Gameplay\BP_HUD.uasset: [Compiler] Create Event  Signature Error: No function/event specified.
+[2021.06.25-17.58.38:422][484]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2021.06.25-17.59.05:072][ 88]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_HUD0ECD5B1C46F5FE55AC2D8C8D73A88E42.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/UI/Gameplay/BP_HUD.uasset'
+[2021.06.25-17.59.05:089][ 88]AssetCheck: New page: Asset Save: BP_HUD
+[2021.06.25-17.59.05:089][ 88]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/UI/Gameplay/BP_HUD.BP_HUD
+[2021.06.25-17.59.06:502][218]BlueprintLog: New page: Compile BP_PlayerController
+[2021.06.25-17.59.06:514][218]LogBlueprint: Error: [AssetLog] D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Content\FruitSamurai\Core\Gameplay\Controllers\BP_PlayerController.uasset: [Compiler] Could not find a pin for the parameter NewScore of OnFruitCut__DelegateSignature on  Call On Fruit Cut
+[2021.06.25-17.59.06:514][218]LogBlueprint: Error: [AssetLog] D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Content\FruitSamurai\Core\Gameplay\Controllers\BP_PlayerController.uasset: [Compiler] Pin  New Param  named NewParam doesn't match any parameters of function OnFruitCut__DelegateSignature
+[2021.06.25-17.59.06:593][218]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.06.25-17.59.42:848][395]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_PlayerControllerEDF286F9456A7AFB438D8381AF5DCF9B.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.uasset'
+[2021.06.25-17.59.42:882][395]AssetCheck: New page: Asset Save: BP_PlayerController
+[2021.06.25-17.59.42:882][395]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/Core/Gameplay/Controllers/BP_PlayerController.BP_PlayerController
+[2021.06.25-17.59.43:733][478]BlueprintLog: New page: Compile BP_PlayerController
+[2021.06.25-17.59.43:815][478]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.06.25-18.00.28:039][799]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_HUD9A3463D24BB032628CEC779AA7FF1D6D.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/UI/Gameplay/BP_HUD.uasset'
+[2021.06.25-18.00.28:055][799]AssetCheck: New page: Asset Save: BP_HUD
+[2021.06.25-18.00.28:055][799]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/UI/Gameplay/BP_HUD.BP_HUD
+[2021.06.25-18.00.28:851][876]BlueprintLog: New page: Compile BP_HUD
+[2021.06.25-18.00.28:854][876]LogBlueprint: Error: [AssetLog] D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Content\FruitSamurai\UI\Gameplay\BP_HUD.uasset: [Compiler] Could not find a pin for the parameter Score of UpdateScore on  Update Score
+[2021.06.25-18.00.28:854][876]LogBlueprint: Error: [AssetLog] D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Content\FruitSamurai\UI\Gameplay\BP_HUD.uasset: [Compiler] Pin  New Score  named NewScore doesn't match any parameters of function UpdateScore
+[2021.06.25-18.00.28:929][876]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.06.25-18.00.53:039][348]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/BP_HUDD29D052440BAD59B2C5D6B8CB4E1974B.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/UI/Gameplay/BP_HUD.uasset'
+[2021.06.25-18.00.53:075][348]AssetCheck: New page: Asset Save: BP_HUD
+[2021.06.25-18.00.53:075][348]LogContentValidation: Display: Validating Blueprint /Game/FruitSamurai/UI/Gameplay/BP_HUD.BP_HUD
+[2021.06.25-18.00.54:133][451]BlueprintLog: New page: Compile BP_HUD
+[2021.06.25-18.00.54:207][451]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2021.06.25-18.00.59:201][976]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.25-18.00.59:207][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.25-18.00.59:207][976]PIE: New page: PIE session: Gameplay (25 jun. 2021 12:00:59)
+[2021.06.25-18.00.59:207][976]LogPlayLevel: Creating play world package: /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay
+[2021.06.25-18.00.59:209][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001892s)
+[2021.06.25-18.00.59:210][976]LogAIModule: Creating AISystem for world Gameplay
+[2021.06.25-18.00.59:210][976]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2021.06.25-18.00.59:210][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FruitSamurai/Levels/Gameplay.Gameplay to /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay.Gameplay (0.003057s)
+[2021.06.25-18.00.59:259][976]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.06.25-18.00.59:260][976]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.06.25-18.00.59:260][976]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-18.00.59:260][976]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-18.00.59:260][976]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-18.00.59:260][976]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-18.00.59:260][976]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-18.00.59:260][976]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-18.00.59:260][976]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-18.00.59:260][976]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-18.00.59:261][976]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-18.00.59:261][976]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-18.00.59:265][976]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-18.00.59:265][976]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-18.00.59:275][976]LogAudioMixer: Display: Using Audio Device Auriculares (2- Escape 220 Stereo)
+[2021.06.25-18.00.59:276][976]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-18.00.59:276][976]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-18.00.59:276][976]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-18.00.59:276][976]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-18.00.59:276][976]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-18.00.59:276][976]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-18.00.59:291][976]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-18.00.59:292][976]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-18.00.59:292][976]LogInit: FAudioDevice initialized.
+[2021.06.25-18.00.59:292][976]LogAudio: Display: Audio Device (ID: 10) registered with world 'Gameplay'.
+[2021.06.25-18.00.59:301][976]LogLoad: Game class is 'GM_Gameplay_C'
+[2021.06.25-18.00.59:302][976]LogWorld: Bringing World /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 0) at 2021.06.25-15.00.59
+[2021.06.25-18.00.59:302][976]LogWorld: Bringing up level for play took: 0.000809
+[2021.06.25-18.00.59:302][976]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.06.25-18.00.59:329][976]PIE: Server logged in
+[2021.06.25-18.00.59:330][976]PIE: Play in editor total start time 0,123 seconds.
+[2021.06.25-18.01.05:992][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-18.01.05:992][767]LogWorld: BeginTearingDown for /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay
+[2021.06.25-18.01.05:992][767]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-18.01.05:992][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-18.01.05:998][767]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.25-18.01.06:004][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-18.01.06:049][767]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.25-18.01.06:049][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-18.01.06:050][767]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-18.01.06:065][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-18.01.06:069][767]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.06.25-18.01.06:088][768]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.06.25-18.01.06:660][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.06.25-18.01.06:668][827]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/Gameplay651C895744C50FF9B4BE00837F98CF08.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Levels/Gameplay.umap'
+[2021.06.25-18.01.06:683][827]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/Gameplay_BuiltData8E01AF8A4A37570B1E8CD7BD7A256613.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Levels/Gameplay_BuiltData.uasset'
+[2021.06.25-18.01.06:717][827]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.25-18.01.06:717][827]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FruitSamurai/Levels/Gameplay_BuiltData.Gameplay_BuiltData
+[2021.06.25-18.01.06:717][827]LogContentValidation: Display: Validating World /Game/FruitSamurai/Levels/Gameplay.Gameplay
+[2021.06.25-18.01.08:310][ 14]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.25-18.01.08:315][ 14]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.25-18.01.08:316][ 14]PIE: New page: PIE session: Gameplay (25 jun. 2021 12:01:08)
+[2021.06.25-18.01.08:316][ 14]LogPlayLevel: Creating play world package: /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay
+[2021.06.25-18.01.08:317][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001838s)
+[2021.06.25-18.01.08:318][ 14]LogAIModule: Creating AISystem for world Gameplay
+[2021.06.25-18.01.08:318][ 14]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2021.06.25-18.01.08:318][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FruitSamurai/Levels/Gameplay.Gameplay to /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay.Gameplay (0.002921s)
+[2021.06.25-18.01.08:366][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.06.25-18.01.08:367][ 14]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.06.25-18.01.08:367][ 14]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.25-18.01.08:367][ 14]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.25-18.01.08:367][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.25-18.01.08:367][ 14]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.25-18.01.08:367][ 14]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.25-18.01.08:367][ 14]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.25-18.01.08:367][ 14]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.25-18.01.08:367][ 14]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.25-18.01.08:367][ 14]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.25-18.01.08:367][ 14]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.25-18.01.08:371][ 14]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.25-18.01.08:371][ 14]LogAudioMixer: Display: 1: FrontRight
+[2021.06.25-18.01.08:382][ 14]LogAudioMixer: Display: Using Audio Device Auriculares (2- Escape 220 Stereo)
+[2021.06.25-18.01.08:382][ 14]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.25-18.01.08:382][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.25-18.01.08:382][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.25-18.01.08:382][ 14]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.25-18.01.08:383][ 14]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.25-18.01.08:383][ 14]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.25-18.01.08:396][ 14]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.25-18.01.08:397][ 14]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.25-18.01.08:397][ 14]LogInit: FAudioDevice initialized.
+[2021.06.25-18.01.08:397][ 14]LogAudio: Display: Audio Device (ID: 11) registered with world 'Gameplay'.
+[2021.06.25-18.01.08:404][ 14]LogLoad: Game class is 'GM_Gameplay_C'
+[2021.06.25-18.01.08:405][ 14]LogWorld: Bringing World /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 0) at 2021.06.25-15.01.08
+[2021.06.25-18.01.08:406][ 14]LogWorld: Bringing up level for play took: 0.000477
+[2021.06.25-18.01.08:406][ 14]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.06.25-18.01.08:408][ 14]PIE: Server logged in
+[2021.06.25-18.01.08:409][ 14]PIE: Play in editor total start time 0,094 seconds.
+[2021.06.25-18.01.13:172][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-18.01.13:172][574]LogWorld: BeginTearingDown for /Game/FruitSamurai/Levels/UEDPIE_0_Gameplay
+[2021.06.25-18.01.13:172][574]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.06.25-18.01.13:172][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-18.01.13:182][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.25-18.01.13:188][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.25-18.01.13:232][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.25-18.01.13:232][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-18.01.13:233][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.25-18.01.13:255][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.06.25-18.01.13:277][575]LogPlayLevel: Display: Destroying online subsystem :Context_19
