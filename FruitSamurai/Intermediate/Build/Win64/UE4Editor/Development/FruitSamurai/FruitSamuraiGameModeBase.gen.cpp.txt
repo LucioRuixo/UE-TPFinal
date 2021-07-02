@@ -6,4 +6,4 @@ D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFra
 D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-d:\todo\repositorios\tsdv\5to cuatrimestre\unreal\ue-tpfinal\fruitsamurai\intermediate\build\win64\ue4editor\inc\fruitsamurai\FruitSamuraiGameModeBase.generated.h
+D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Inc\FruitSamurai\FruitSamuraiGameModeBase.generated.h

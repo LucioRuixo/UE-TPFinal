@@ -1,12 +1,17 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal).
+  Parsing headers for FruitSamuraiEditor
+    Running UnrealHeaderTool "D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\FruitSamurai.uproject" "D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\FruitSamuraiEditor\Development\FruitSamuraiEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Compu\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for FruitSamuraiEditor in 65,4327722 seconds
   Building FruitSamuraiEditor...
-  Using Visual Studio 2017 14.16.27045 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 4 processes...
-    [1/4] BaseFruitSpawner.cpp
-    [2/4] UE4Editor-FruitSamurai-0015.lib
-       Creando biblioteca D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\UE4Editor-FruitSamurai-0015.lib y objeto D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\UE4Editor-FruitSamurai-0015.exp
-    [3/4] UE4Editor-FruitSamurai-0015.dll
-       Creando biblioteca D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\UE4Editor-FruitSamurai-0015.suppressed.lib y objeto D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\UE4Editor-FruitSamurai-0015.suppressed.exp
-    [4/4] FruitSamuraiEditor.target
-  Total time in Parallel executor: 182,85 seconds
-  Total execution time: 191,40 seconds
+  Using Visual Studio 2019 14.29.30038 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 4 processes...
+    [1/6] FruitSamurai.init.gen.cpp
+    [2/6] FruitSamuraiGameModeBase.cpp
+    [3/6] FruitSamuraiGameModeBase.gen.cpp
+    [4/6] UE4Editor-FruitSamurai-0019.lib
+       Creando biblioteca D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\UE4Editor-FruitSamurai-0019.lib y objeto D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\UE4Editor-FruitSamurai-0019.exp
+    [5/6] UE4Editor-FruitSamurai-0019.dll
+       Creando biblioteca D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\UE4Editor-FruitSamurai-0019.suppressed.lib y objeto D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\UE4Editor-FruitSamurai-0019.suppressed.exp
+    [6/6] FruitSamuraiEditor.target
+  Total time in Parallel executor: 191,08 seconds
+  Total execution time: 258,77 seconds

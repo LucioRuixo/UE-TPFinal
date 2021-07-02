@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeFruitSamurai_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x79EA994B,
+				0x7D73E54B,
 				0xD5E546CA,
 				METADATA_PARAMS(nullptr, 0)
 			};

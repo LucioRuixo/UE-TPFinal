@@ -1,0 +1,3 @@
+D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Development\FruitSamurai\Definitions.FruitSamurai.h
+D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Source\FruitSamurai\Controllers\PlayerController_FruitSamurai.h
+D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4Editor\Inc\FruitSamurai\PlayerController_FruitSamurai.generated.h

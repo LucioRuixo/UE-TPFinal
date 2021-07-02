@@ -8,7 +8,7 @@ void AFruitSamuraiGameModeBase::StartGame()
 	OnStartGame();
 }
 
-void AFruitSamuraiGameModeBase::EndGame()
+void AFruitSamuraiGameModeBase::EndGame(int FinalScore)
 {
-	OnEndGame();
+	OnEndGame(FinalScore);
 }

@@ -19,12 +19,12 @@ protected:
 	void StartGame();
 
 	UFUNCTION(BlueprintCallable, Category = "Game Flow")
-	void EndGame();
+	void EndGame(int FinalScore);
 
 public:
 	UFUNCTION(BlueprintImplementableEvent, Category = "Game Flow")
 	void OnStartGame();
 
 	UFUNCTION(BlueprintImplementableEvent, Category = "Game Flow")
-	void OnEndGame();
+	void OnEndGame(int FinalScore);
 };

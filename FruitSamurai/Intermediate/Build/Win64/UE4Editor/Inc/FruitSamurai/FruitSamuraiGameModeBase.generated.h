@@ -26,7 +26,13 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	DECLARE_FUNCTION(execStartGame);
 
 
-#define FruitSamurai_Source_FruitSamurai_Game_Modes_FruitSamuraiGameModeBase_h_15_EVENT_PARMS
+#define FruitSamurai_Source_FruitSamurai_Game_Modes_FruitSamuraiGameModeBase_h_15_EVENT_PARMS \
+	struct FruitSamuraiGameModeBase_eventOnEndGame_Parms \
+	{ \
+		int32 FinalScore; \
+	};
+
+
 #define FruitSamurai_Source_FruitSamurai_Game_Modes_FruitSamuraiGameModeBase_h_15_CALLBACK_WRAPPERS
 #define FruitSamurai_Source_FruitSamurai_Game_Modes_FruitSamuraiGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
 private: \
