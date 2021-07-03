@@ -1,0 +1,2 @@
+D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4\Development\FruitSamurai\Definitions.FruitSamurai.h
+D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Source\FruitSamurai\FruitSamurai.h

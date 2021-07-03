@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\FruitSamurai.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{A7926EEC-6FCA-4965-BBDC-FE40D2F00CD8}</UniqueIdentifier>
+      <UniqueIdentifier>{566EFA25-BC00-4B85-9F7E-5E82AF87BA7B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FruitSamurai.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{D98CE733-E647-4551-B04E-3747FE60586C}</UniqueIdentifier>
+      <UniqueIdentifier>{7A64F43D-9517-4788-905C-CE151896F2EE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\FruitSamurai">
-      <UniqueIdentifier>{3BCF4E6C-1069-417A-936C-40DDB9F5ABCD}</UniqueIdentifier>
+      <UniqueIdentifier>{231B353C-5608-4BD7-8B3E-FF34397A7750}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\FruitSamurai\FruitSamurai.Build.cs">
       <Filter>Source\FruitSamurai</Filter>
@@ -36,7 +36,7 @@
       <Filter>Source\FruitSamurai</Filter>
     </ClInclude>
     <Filter Include="Source\FruitSamurai\Game Modes">
-      <UniqueIdentifier>{E88CEDB2-F689-448B-AD45-A6614E1867A7}</UniqueIdentifier>
+      <UniqueIdentifier>{5C3755AB-F03B-4390-8351-5B4F29860965}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\FruitSamurai\Game Modes\FruitSamuraiGameModeBase.cpp">
       <Filter>Source\FruitSamurai\Game Modes</Filter>
@@ -45,7 +45,7 @@
       <Filter>Source\FruitSamurai\Game Modes</Filter>
     </ClInclude>
     <Filter Include="Source\FruitSamurai\Spawners">
-      <UniqueIdentifier>{504F82C2-1377-4614-ADC2-9DE30096B64D}</UniqueIdentifier>
+      <UniqueIdentifier>{BCB6D464-7840-457E-BDDC-A47E6C588719}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\FruitSamurai\Spawners\BaseFruitSpawner.cpp">
       <Filter>Source\FruitSamurai\Spawners</Filter>

@@ -1,0 +1,3 @@
+D:\Todo\Repositorios\TSDV\5to cuatrimestre\Unreal\UE-TPFinal\FruitSamurai\Intermediate\Build\Win64\UE4\Development\FruitSamurai\Definitions.FruitSamurai.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
