@@ -6597,3 +6597,16 @@ Make sure 'BP_BaseFruit_C' has been compiled for  Get ProceduralMeshCenter
 [2021.07.02-23.41.59:274][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.07.02-23.41.59:298][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
 [2021.07.02-23.41.59:335][745]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2021.07.03-00.07.11:298][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.07.03-00.07.11:322][120]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/MainMenu6FBC20954F8D385ED6D09FA25B9B60A1.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Maps/MainMenu.umap'
+[2021.07.03-00.07.11:337][120]LogFileHelpers: Saving map 'MainMenu' took 0.090
+[2021.07.03-00.07.11:379][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.07.03-00.07.11:385][120]LogSavePackage: Moving '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Saved/GameplayD0457D4B44A0F6B4056C3CB8638A6C63.tmp' to '../../../../../../Todo/Repositorios/TSDV/5to cuatrimestre/Unreal/UE-TPFinal/FruitSamurai/Content/FruitSamurai/Maps/Gameplay.umap'
+[2021.07.03-00.07.11:387][120]LogFileHelpers: Saving map 'Gameplay' took 0.049
+[2021.07.03-00.07.11:722][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.07.03-00.07.11:745][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.07.03-00.07.11:772][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.07.03-00.07.11:803][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.07.03-00.07.11:903][120]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.03-00.07.11:903][120]LogContentValidation: Display: Validating World /Game/FruitSamurai/Maps/Gameplay.Gameplay
+[2021.07.03-00.07.11:903][120]LogContentValidation: Display: Validating World /Game/FruitSamurai/Maps/MainMenu.MainMenu
